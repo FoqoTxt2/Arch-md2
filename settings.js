@@ -1,8 +1,6 @@
 /* 
 
-   Contact: https://wa.me/2347036214381
-   Telegram: https://t.me/Ednut_x    
-   Developer : https://wa.me/2348102487241
+   255788925545
   
 */
 
@@ -12,16 +10,16 @@ const { version } = require("./package.json")
 
 
 //======= Change settings =======\\
-global.owner = "2347036214381"
-global.botname = "αrch md"
+global.owner = "255788925545"
+global.botname = "Professor Txt"
 global.ownername = "" //set bot owner name here 
 global.simbol = "♘"
 global.typeMenu = 'v1' // choose between 1,2,3
 global.prefix = '.' // your desired prefix symbol only
 global.channel = ''
 global.timezone = 'Africa/Lagos'
-global.author = 'Ednut'
-global.packname = 'Arch Md ²⁵'
+global.author = 'Professor'
+global.packname = 'Professor ²⁵'
 
 global.tempatDB = 'database.json' // dont change might cause big errors 
 global.pairing_code = false // if deploying on panel set true if on any other platform leave it false
@@ -29,8 +27,8 @@ global.startup = true
 
 // Settings Image Url
 global.image = {
-menu: "https://files.catbox.moe/bj888g.jpg", 
-reply: "https://files.catbox.moe/9nrqqg.jpg", 
+menu: "", 
+reply: "", 
 }
 
 // Message Command 
